@@ -7,6 +7,17 @@ let jokers = [
   //   image_url: "img/j_joker.png",
   //   rarity: "Common"
   // }
+
+  let jokers = [
+   {
+     name: "Light Glyph",
+     text: [
+       "{C:mult}+4{} Mult"
+     ],
+     image_url: "img/j_joker.png",
+     rarity: "Common"
+   }
+]
 ]
 
 // works the same. 
